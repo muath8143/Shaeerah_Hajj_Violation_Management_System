@@ -22,8 +22,6 @@ A centralized platform for managing kitchen inspection violations during Hajj op
 
 * Java
 * Spring Boot
-* Spring Security
-* JWT
 * MySQL
 * JPA
 * REST APIs
